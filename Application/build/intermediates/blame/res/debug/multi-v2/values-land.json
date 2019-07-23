@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/larox/src/ble_app/ubirch-ble-app/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/larox/.gradle/caches/transforms-2/files-2.1/f4d2d27b7039873ba40b5ffa4d71d20e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}
